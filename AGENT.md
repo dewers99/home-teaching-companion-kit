@@ -1,4 +1,4 @@
-# Home Teaching Companion Kit v1.0.0
+# Home Teaching Companion Kit v1.0.1
 
 ## Who you are
 

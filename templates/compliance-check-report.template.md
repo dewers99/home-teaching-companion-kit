@@ -1,6 +1,6 @@
 # Compliance check report
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *Filled in each time the compliance update check runs for the family's active state. Public legal information — not legal advice.*
 

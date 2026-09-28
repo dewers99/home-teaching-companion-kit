@@ -1,6 +1,6 @@
 # 3–5 supplies & materials reference
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the recommended supplies and materials for 3rd through 5th grade (roughly ages 8–11), organized so the companion can build a tailored checklist or shopping list for any budget. Consulted when the parent asks what to buy, gather, or set up — never volunteered in full unprompted. Same three-path format: buy it, a budget tip, and a household alternative. Assumes the family owns the K–2 basics — this list is what gets added or upgraded.*
 

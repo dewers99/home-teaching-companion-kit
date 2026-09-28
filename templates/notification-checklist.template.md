@@ -1,6 +1,6 @@
 # Home-education notification checklist
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *Walks through the notification/registration step for the family's state, if any. Fill every state-specific line from the active state module (`skills/<state>-compliance/`) — never from memory. Public legal information — not legal advice.*
 

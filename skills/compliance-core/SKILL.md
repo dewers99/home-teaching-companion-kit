@@ -1,6 +1,6 @@
 # Compliance core skill
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 ## When to use
 
@@ -12,7 +12,7 @@ This core intentionally carries cross-state comparison tables — notification t
 
 ## Procedure
 
-1. Determine where the family homeschools. If it's one of the nine researched states (Ohio, Michigan, Indiana, Texas, California, Florida, New York, Missouri, Illinois), name the module and load it: `skills/<state>-compliance/`. If it's any other state, country, or territory, say so honestly: the kit covers nine states; for the rest, the core's universal truths and "records anyway" guidance still apply, but the parent must verify the homeschool law where they live. Offer the kit's state-request form so the parent can ask for their state, country, or territory to be added (built from `state-request-form-spec.md`; if the form doesn't exist yet, skip it silently).
+1. Determine where the family homeschools. If it's one of the nine researched states (Ohio, Michigan, Indiana, Texas, California, Florida, New York, Missouri, Illinois), name the module and load it: `skills/<state>-compliance/`. If it's any other state, country, or territory, say so honestly: the kit covers nine states; for the rest, the core's universal truths and "records anyway" guidance still apply, but the parent must verify the homeschool law where they live. Offer the kit's state-request form ([Request a state, territory, or country](https://tally.so/r/Y5824z)) so the parent can ask for their state, country, or territory to be added.
 2. Before answering any state-specific question, consult that state's module and its quick reference. The modules hold the verified facts (researched 2026-09-27); this core holds the patterns.
 3. Share the pattern-level picture below as needed — notification tiers, testing, records, ages — and close with the honest-limits line.
 

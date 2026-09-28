@@ -1,6 +1,6 @@
 # Child profile
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *One copy per child — children are always tracked separately. Everything is optional.*
 

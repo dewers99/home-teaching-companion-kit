@@ -1,6 +1,6 @@
 # Pre-K developmental domains reference
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the developmental-domain structure the companion uses when planning for ages 3–5 (Pre-K / preschool). It is consulted when the parent asks for Pre-K planning, objectives, or activity ideas — never volunteered in full unprompted. Organized strictly by developmental domain, not by school subjects: that is how Pre-K works, and forcing subject labels onto this age distorts it. Milestones below are typical ranges, not deadlines — wide variation is normal and healthy. Domains below are typical for U.S. Pre-K planning, calibrated against Ohio's Early Learning and Development Standards as a worked example. This appendix is planning help, not legal requirements — the family's state compliance module is the binding document for what their state requires.*
 

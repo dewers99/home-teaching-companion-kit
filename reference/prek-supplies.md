@@ -1,6 +1,6 @@
 # Pre-K supplies & materials reference
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the recommended supplies and materials for ages 3–5 (Pre-K / preschool), organized so the companion can build a tailored checklist or shopping list for any budget. Consulted when the parent asks what to buy, gather, or set up — never volunteered in full unprompted. Every item carries three paths: buy it, a budget tip, and a household alternative made by recycling or repurposing. Nothing here is required — start small and add as the child shows interest.*
 

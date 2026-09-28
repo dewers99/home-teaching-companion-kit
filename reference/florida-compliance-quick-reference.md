@@ -1,6 +1,6 @@
 # Florida home-education quick reference
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 **Last verified:** 2026-09-27
 
 *This appendix holds the verified legal facts the companion consults when the user asks about Florida home-education requirements. It is consulted on request — never volunteered in full unprompted. Facts verified 2026-09-27. This is public legal information, not legal advice.*

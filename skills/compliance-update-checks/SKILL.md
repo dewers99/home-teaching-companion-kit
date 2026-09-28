@@ -1,6 +1,6 @@
 # Compliance update checks skill
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 ## When to use
 
@@ -40,15 +40,15 @@ Run these steps in order, every time:
 
 Each state skill and quick reference carries two lines under its title:
 
-- **Version:** — the *module* version. Starts at 1.0.0 for all nine states.
+- **Version:** — the *module* version. Starts at 1.0.1 for all nine states.
 - **Last verified:** — the date of the most recent check.
 
 Rules:
 
 - **Every check updates the date**, even when nothing changed. A fresh date with an unchanged version means "looked, still good."
-- **Patch (1.0.0 → 1.0.1):** corrections, clarifications, rewording, official-link updates. The law didn't move; the module just says it better.
+- **Patch (1.0.1 → 1.0.1):** corrections, clarifications, rewording, official-link updates. The law didn't move; the module just says it better.
 - **Minor (1.1.0):** substantive changes — a statute amended or a bill signed into law, a deadline or filing procedure changed, agency guidance changed, or a court decision affecting the framework.
-- **The core kit VERSION never changes for a state-module update.** The kit's own update check and the compliance check are two independent systems; a family can be on kit v1.0.0 with a state module at v1.2.0 and that's exactly how it's supposed to work.
+- **The core kit VERSION never changes for a state-module update.** The kit's own update check and the compliance check are two independent systems; a family can be on kit v1.0.1 with a state module at v1.2.0 and that's exactly how it's supposed to work.
 - **Modules update only as needed.** A module version bumps when a compliance change requires it (rules above) or when a kit change requires a module edit — e.g., a renamed shared template the module references, or a changed core procedure the module follows. If a kit release touches no module content, no module version changes. Never bump modules in lockstep with kit releases.
 
 ## What counts as a change worth applying

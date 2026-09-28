@@ -1,6 +1,6 @@
 # 9–12 subject reference (9th through 12th grade)
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the typical subject structure and graduation planning guidance for 9th through 12th grade (roughly ages 14–18). Consulted when the parent asks what to teach, how credits work, or how to plan for graduation — never volunteered in full unprompted. This band is about planning backward from the student's goals, not checking boxes by grade. Content below is typical U.S. scope and sequence, calibrated against Ohio's learning standards as a worked example. It is planning help, not legal requirements — the family's state compliance module lists what their state actually requires (including any state-specific graduation or dual-enrollment rules), and that's the binding document.*
 

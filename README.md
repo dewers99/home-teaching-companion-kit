@@ -1,4 +1,4 @@
-# Home Teaching Companion Kit v1.0.0
+# Home Teaching Companion Kit v1.0.1
 
 A pure-markdown companion kit that turns your AI tool of choice into a teaching partner for your homeschool — built for the **parent/teacher**, adaptable to **any age or grade**.
 
@@ -38,11 +38,11 @@ Your state's compliance module is checked separately, on its own schedule: quart
 
 ## Feedback
 
-The kit includes an anonymous feedback form: [Share feedback on the Home Teaching Companion Kit](https://tally.so/r/D4QLKp) (built by the kit's author from `feedback-form-spec.md`). About two weeks after install, the companion offers it once — skippable, never nagging.
+The kit includes an anonymous feedback form: [Share feedback on the Home Teaching Companion Kit](https://tally.so/r/D4QLKp). About two weeks after install, the companion offers it once — skippable, never nagging.
 
 ## Requesting a state, country, or territory
 
-The kit covers nine states. If your state, country, or territory isn't one of them, the companion will say so honestly — and offer the kit's state-request form: [Request a state, territory, or country](https://tally.so/r/Y5824z) (built by the kit's author from `state-request-form-spec.md`). Requests are counted; the most-requested places get built first.
+The kit covers nine states. If your state, country, or territory isn't one of them, the companion will say so honestly — and offer the kit's state-request form: [Request a state, territory, or country](https://tally.so/r/Y5824z). Requests are counted; the most-requested places get built first.
 
 ## License
 

@@ -1,6 +1,6 @@
 # K–2 supplies & materials reference
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the recommended supplies and materials for Kindergarten through 2nd grade (roughly ages 5–8), organized so the companion can build a tailored checklist or shopping list for any budget. Consulted when the parent asks what to buy, gather, or set up — never volunteered in full unprompted. Same three-path format as the Pre-K supplies reference: buy it, a budget tip, and a household alternative made by recycling or repurposing. Assumes the family may already own the Pre-K basics (scissors, crayons, glue, playdough) — this list is what gets added or upgraded.*
 

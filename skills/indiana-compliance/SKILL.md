@@ -1,6 +1,6 @@
 # Indiana compliance skill
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 **Last verified:** 2026-09-27
 
 ## When to use

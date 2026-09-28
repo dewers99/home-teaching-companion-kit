@@ -1,6 +1,6 @@
 # 3–5 subject reference (3rd through 5th grade)
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the typical subject structure and grade-level objectives for 3rd through 5th grade (roughly ages 8–11). Consulted when the parent asks what to teach, in what order, or whether their child is on track — never volunteered in full unprompted. Objectives are typical ranges, not deadlines; children routinely work across grade levels in different subjects. Content below is typical U.S. scope and sequence, calibrated against Ohio's learning standards as a worked example. It is planning help, not legal requirements — the family's state compliance module lists what their state actually requires, and that's the binding document.*
 

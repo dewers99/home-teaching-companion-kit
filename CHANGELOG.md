@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+(nothing yet)
+
+## [1.0.1] — 2026-09-28
+
+- **Removed internal build documents from the public repo.** `feedback-form-spec.md` and `state-request-form-spec.md` were the kit author's working papers for the Tally forms, not kit content — they're now kept with the kit's build notes. References in README and the skills were cleaned up to point at the live forms. No functional changes.
+
 ## [1.0.0] — 2026-09-28
 
 Initial release of the Home Teaching Companion Kit.

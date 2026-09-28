@@ -1,6 +1,6 @@
 # 6–8 supplies & materials reference
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the recommended supplies and materials for 6th through 8th grade (roughly ages 11–14), organized so the companion can build a tailored checklist or shopping list for any budget. Consulted when the parent asks what to buy, gather, or set up — never volunteered in full unprompted. Same three-path format: buy it, a budget tip, and a household alternative. Assumes the family owns the 3–5 basics — this list is what gets added or upgraded.*
 

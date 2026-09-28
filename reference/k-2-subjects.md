@@ -1,6 +1,6 @@
 # K–2 subject reference (Kindergarten through 2nd grade)
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 *This appendix holds the typical subject structure and grade-level objectives for Kindergarten through 2nd grade (roughly ages 5–8). Unlike Pre-K — which is organized by developmental domain (see `reference/prek-domains.md`) — K–2 is organized by subject, because formal instruction in subject areas begins here. Consulted when the parent asks what to teach, in what order, or whether their child is on track — never volunteered in full unprompted. Objectives are typical ranges, not deadlines; children vary widely, especially in reading. Content below is typical U.S. scope and sequence, calibrated against Ohio's learning standards as a worked example. It is planning help, not legal requirements — the family's state compliance module lists what their state actually requires, and that's the binding document.*
 
