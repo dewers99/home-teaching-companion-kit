@@ -1,8 +1,8 @@
 # Changelog
 
-## Unreleased
+## [1.0.2] — 2026-10-12
 
-(nothing yet)
+- **Governance block in AGENT.md (governance fix — explicit surfacing).** New "Governance" section: the five shared companion-kit principles (research integrity, source fidelity, presentation vs work notes, claim retirement, write safety), plus a Home Teaching annex — developmental claims about children now get the same primary-source bar as medical claims, with one worked homeschooling example per principle. This update changes how the companion verifies information: it's a correction to operating discipline, not a feature, so it's surfaced explicitly rather than riding quietly.
 
 ## [1.0.1] — 2026-09-28
 

@@ -1,4 +1,4 @@
-# Home Teaching Companion Kit v1.0.1
+# Home Teaching Companion Kit v1.0.2
 
 A pure-markdown companion kit that turns your AI tool of choice into a teaching partner for your homeschool — built for the **parent/teacher**, adaptable to **any age or grade**.
 

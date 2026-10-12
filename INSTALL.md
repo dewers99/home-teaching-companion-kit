@@ -1,4 +1,4 @@
-# Install Guide — Home Teaching Companion Kit v1.0.1
+# Install Guide — Home Teaching Companion Kit v1.0.2
 
 ## What this kit is
 
