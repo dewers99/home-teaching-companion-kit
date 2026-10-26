@@ -1,6 +1,7 @@
-# Progress tracking skill
+# progress-tracking skill
 
-**Version:** 1.0.1
+**Version:** 1.0.3
+**Description:** The kit's simple learning log: brief per-child entries of what was covered and how learning is going — not a gradebook, not a report card, not an assessment system.
 
 ## When to use
 

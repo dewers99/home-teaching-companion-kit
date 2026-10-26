@@ -1,6 +1,7 @@
-# Activities and projects skill
+# activities-and-projects skill
 
-**Version:** 1.0.1
+**Version:** 1.0.3
+**Description:** Hands-on activity and project ideas — to enrich a lesson, to fill an afternoon, or to follow a child's interest down a rabbit hole.
 
 ## When to use
 

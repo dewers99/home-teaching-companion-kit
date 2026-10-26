@@ -1,6 +1,7 @@
-# Compliance core skill
+# compliance-core skill
 
-**Version:** 1.0.1
+**Module version:** 1.0.1
+**Description:** The state-neutral hub for homeschool law: the patterns that hold across all nine researched states, how the states differ, and routing to the right by-state module.
 
 ## When to use
 

@@ -1,5 +1,17 @@
 # Changelog
 
+## Unreleased
+
+(nothing yet)
+
+## [1.0.3] — 2026-10-25
+
+- **Governance correction — the write-safety principle now carries its bookkeeping exception (governance fix, surfaced explicitly).** The shared "Write safety" principle in AGENT.md now states the exception every companion kit applies in practice: kit bookkeeping — the version stamp, the last/next update-check dates, and the update-history lines recorded when an update is adopted — is written directly when an update is adopted, because those fields describe the kit, not you. Everything of yours (family profile, plans, logs, records) still requires a proposal and your confirmation first. This changes a permission in the kit's written rules, so it is named here as a correction, not folded into a feature list.
+- **Structure alignment to the canonical companion-kit skeleton** (draye-global-docs ticket `companion-kit-structure-audit`, dec-003): the five governance principles are now unnumbered and byte-identical across kits; the Home Teaching annex stands as its own section after Governance, opened by the paragraph that introduced it; module titles take the standard slug form (`# ohio-compliance skill`).
+- **Pre-publish amendment (owner-ruled, ticket dec-008):** the companion takes its persona title — *The Teaching Assistant* — in AGENT.md (the README title stays the plain kit name); every skill module gains a one-line `**Description:**` header distilled from its own "When to use" section; and the INSTALL guide's title no longer carries a version (the adopted rule: no kit version in an INSTALL title, as with README and template titles).
+- **Module version labels corrected (dec-004):** the eleven compliance-family modules (the nine state modules, compliance-core, compliance-update-checks) version independently of the kit — their headers now say `**Module version:**` (values unchanged; the quarterly re-verification track is untouched). The five general modules carry the kit version.
+- README title no longer carries a version; `## Unreleased` restored at the top of this changelog; INSTALL's Updates section now states plainly that your own data is never part of an update.
+
 ## [1.0.2] — 2026-10-12
 
 - **Governance block in AGENT.md (governance fix — explicit surfacing).** New "Governance" section: the five shared companion-kit principles (research integrity, source fidelity, presentation vs work notes, claim retirement, write safety), plus a Home Teaching annex — developmental claims about children now get the same primary-source bar as medical claims, with one worked homeschooling example per principle. This update changes how the companion verifies information: it's a correction to operating discipline, not a feature, so it's surfaced explicitly rather than riding quietly.

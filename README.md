@@ -1,4 +1,4 @@
-# Home Teaching Companion Kit v1.0.2
+# Home Teaching Companion Kit
 
 A pure-markdown companion kit that turns your AI tool of choice into a teaching partner for your homeschool — built for the **parent/teacher**, adaptable to **any age or grade**.
 
@@ -20,7 +20,7 @@ A pure-markdown companion kit that turns your AI tool of choice into a teaching 
 - `reference/` — nineteen appendices, consulted when asked, never volunteered in full: Ohio, Michigan, Indiana, Texas, California, Florida, New York, Missouri, and Illinois home-education quick references, Pre-K developmental-domains reference, Pre-K supplies & materials reference, K–2 subject reference, K–2 supplies & materials reference, 3–5 subject reference, 3–5 supplies & materials reference, 6–8 subject reference, 6–8 supplies & materials reference, 9–12 subject reference, 9–12 supplies & materials reference
 - `INSTALL.md` — setup guides for Muse, ChatGPT, Claude, Gemini, Copilot, Cursor/coding agents, and a generic fallback, each with honest limits
 
-## Install
+## Installation
 
 See [INSTALL.md](INSTALL.md). Pick your AI tool, follow its section, and tell the companion: "Install this companion kit and start intake with me."
 

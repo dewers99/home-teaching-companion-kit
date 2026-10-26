@@ -1,6 +1,7 @@
-# Texas compliance skill
+# texas-compliance skill
 
-**Version:** 1.0.1
+**Module version:** 1.0.1
+**Description:** Texas home-education requirements: what the law requires, what to file, when the deadlines are, and how re-enrollment works — public legal facts and official sources only, never legal advice.
 **Last verified:** 2026-09-27
 
 ## When to use

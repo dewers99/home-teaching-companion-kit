@@ -1,6 +1,7 @@
-# Intake and family profile skill
+# intake-and-family-profile skill
 
-**Version:** 1.0.1
+**Version:** 1.0.3
+**Description:** The first conversation with a homeschooling parent: builds the family profile the companion teaches to, and updates it when the family's situation changes.
 
 ## When to use
 

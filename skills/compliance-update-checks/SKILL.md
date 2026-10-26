@@ -1,6 +1,7 @@
-# Compliance update checks skill
+# compliance-update-checks skill
 
-**Version:** 1.0.1
+**Module version:** 1.0.1
+**Description:** Sets up, runs, and changes the recurring check that keeps the family's active state compliance module current — tracking the law, separate from the kit's own update check.
 
 ## When to use
 

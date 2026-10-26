@@ -1,6 +1,7 @@
-# Lesson and unit planning skill
+# lesson-and-unit-planning skill
 
-**Version:** 1.0.1
+**Version:** 1.0.3
+**Description:** Builds plans for the parent to run — a single day's lessons, a week's schedule, or a multi-week unit — and adjusts them when life intervenes.
 
 ## When to use
 

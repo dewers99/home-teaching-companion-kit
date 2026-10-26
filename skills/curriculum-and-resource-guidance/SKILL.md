@@ -1,6 +1,7 @@
-# Curriculum and resource guidance skill
+# curriculum-and-resource-guidance skill
 
-**Version:** 1.0.1
+**Version:** 1.0.3
+**Description:** Helps the parent choose curriculum and resources that fit their family's approach; the kit bundles no curriculum and endorses none.
 
 ## When to use
 

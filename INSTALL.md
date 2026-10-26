@@ -1,4 +1,4 @@
-# Install Guide — Home Teaching Companion Kit v1.0.2
+# Install Guide — Home Teaching Companion Kit
 
 ## What this kit is
 
@@ -133,6 +133,7 @@ Things the companion might save for you: family/child profiles, lesson plans, we
 - **First check:** one week after you install, the companion asks if you want to check for a kit update.
 - **After that:** your choice — weekly (the default), monthly, or off. Say the word any time to change it.
 - **How it works:** the companion compares the repo's `VERSION` file against your installed version, shows you exactly what changed, and never silently applies an update. You decide whether to take it.
+- **Your own data is never part of an update.** Updates change the kit — your family profile, plans, and logs are yours and stay untouched.
 - **URL-installed kits that re-fetch every session** are already current — no check needed.
 
 ## Compliance update checks
